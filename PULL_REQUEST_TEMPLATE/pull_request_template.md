@@ -1,7 +1,7 @@
 ## PR - To Do
-- [] Fill in the PR template
-- [] Update the CHANGELOG.md
-- [] Update or add relevant tests
+- [ ] Fill in the PR template
+- [ ] Update the CHANGELOG.md
+- [ ] Update or add relevant tests
 
 ## Key Links
 ### Tickets
