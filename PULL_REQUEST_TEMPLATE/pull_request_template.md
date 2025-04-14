@@ -4,14 +4,10 @@
 - [ ] Update or add relevant tests
 
 ## 📌 Key Links
-### Tickets
-- [Ticket](https://eit-oxford.atlassian.net/browse/EV-)
+- Ticket - https://eit-oxford.atlassian.net/browse/EV-
+- A dependent PR - 
 
-### Relevant PRs
+## ✨ Changes [^1]
 - 
 
-## ✨Changes
-- 
-
-### :art: Emoji Reference
-- Reference for the meaning of all emojis can be found here - https://gitmoji.dev/
+[^1]: The meaning of all emojis related to changes can be found here - https://gitmoji.dev/
